@@ -1,4 +1,5 @@
-Learning objectives
+HEPATITIS-PREDICTION
+Leharning objectives
 This tutorial explains the benefits of the AutoAI service on a use case so you can have a better understanding of how regression and classification problems can be handled without any code and how the tasks (feature engineering, model selection, hyperparameter tuning, etc.) are done with this service. The tutorial also includes details for choosing the best model among the pipelines and how to deploy and use these models.
 Prerequisites
 To follow along, you must:
